@@ -1,6 +1,8 @@
-# Text Changer Chrome Extension
+# Tulip Text Changer Chrome Extension
 
-This Chrome extension lets you change text on pages that you navigate.
+This Chrome extension helps give a humorous perspective on NFT coverage
+
+Based off the great work by Márcio Gabriel at https://github.com/marcioggs/text-changer-chrome-extension
 
 [Install](https://chrome.google.com/webstore/detail/text-changer/fabkbngakgpgbfjcgniagacieofijajm)
 
