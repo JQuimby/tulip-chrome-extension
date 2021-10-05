@@ -10,11 +10,11 @@ function isObjectEmpty(obj) {
  * Sets default preferences.
  */
 function setDefaultPreferences() {
-    chrome.storage.sync.set({
-        fromTextArray: ['NFT'],
-        toTextArray: ['Tulip'],
-        hideBadge: false
-    });
+  chrome.storage.sync.set({
+    fromTextArray: ["NFT","Non-fungible","Token","non-fungible","token"],
+    toTextArray: ["Tulip Bulb","Tulip","Bulb","tulip","bulb"],
+    hideBadge: false
+  });
 }
 
 chrome.runtime.onInstalled.addListener(function(reason, previousVersion, id) {
