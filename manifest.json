@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name":"Tulip Changer",
   "version":"0.0.1",
-  "description":"A joking perspective shift on NFTs. Virtually guaranteed to be broken in some way as I haven't professionally coded in many, many moons.",
+  "description":"A joking perspective shift on NFTs. Virtually guaranteed to be broken in some way.",
   "icons": { "16": "assets/icon16.png",
              "48": "assets/icon48.png",
             "128": "assets/icon128.png" },

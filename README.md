@@ -4,7 +4,7 @@ This Chrome extension helps give a humorous perspective on NFT coverage
 
 Based off the great work by Márcio Gabriel at https://github.com/marcioggs/text-changer-chrome-extension
 
-[Install](https://chrome.google.com/webstore/detail/text-changer/fabkbngakgpgbfjcgniagacieofijajm)
+[Install](https://chrome.google.com/webstore/detail/tulip-changer/ncpngfdelbppllnkekkkaoknhlekhfbo)
 
 Features:
 - Add multiple words;
